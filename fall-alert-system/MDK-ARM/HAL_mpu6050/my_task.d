@@ -1,0 +1,57 @@
+hal_mpu6050\my_task.o: ..\Core\Src\my_task.c
+hal_mpu6050\my_task.o: ../Core/Inc/my_task.h
+hal_mpu6050\my_task.o: ../Core/Inc/main.h
+hal_mpu6050\my_task.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+hal_mpu6050\my_task.o: ../Core/Inc/stm32f1xx_hal_conf.h
+hal_mpu6050\my_task.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+hal_mpu6050\my_task.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+hal_mpu6050\my_task.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+hal_mpu6050\my_task.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+hal_mpu6050\my_task.o: E:\kile 5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\core_cm3.h
+hal_mpu6050\my_task.o: E:\kile 5\ARM\ARMCC\Bin\..\include\stdint.h
+hal_mpu6050\my_task.o: E:\kile 5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_version.h
+hal_mpu6050\my_task.o: E:\kile 5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_compiler.h
+hal_mpu6050\my_task.o: E:\kile 5\ARM\PACK\ARM\CMSIS\5.2.0\CMSIS\Include\cmsis_armcc.h
+hal_mpu6050\my_task.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+hal_mpu6050\my_task.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+hal_mpu6050\my_task.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+hal_mpu6050\my_task.o: E:\kile 5\ARM\ARMCC\Bin\..\include\stddef.h
+hal_mpu6050\my_task.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+hal_mpu6050\my_task.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+hal_mpu6050\my_task.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+hal_mpu6050\my_task.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+hal_mpu6050\my_task.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+hal_mpu6050\my_task.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+hal_mpu6050\my_task.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+hal_mpu6050\my_task.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+hal_mpu6050\my_task.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+hal_mpu6050\my_task.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h
+hal_mpu6050\my_task.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+hal_mpu6050\my_task.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+hal_mpu6050\my_task.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+hal_mpu6050\my_task.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+hal_mpu6050\my_task.o: E:\kile 5\ARM\ARMCC\Bin\..\include\stdio.h
+hal_mpu6050\my_task.o: E:\kile 5\ARM\ARMCC\Bin\..\include\string.h
+hal_mpu6050\my_task.o: E:\kile 5\ARM\ARMCC\Bin\..\include\stdlib.h
+hal_mpu6050\my_task.o: E:\kile 5\ARM\ARMCC\Bin\..\include\math.h
+hal_mpu6050\my_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h
+hal_mpu6050\my_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+hal_mpu6050\my_task.o: ../Core/Inc/FreeRTOSConfig.h
+hal_mpu6050\my_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+hal_mpu6050\my_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+hal_mpu6050\my_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+hal_mpu6050\my_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+hal_mpu6050\my_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+hal_mpu6050\my_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+hal_mpu6050\my_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+hal_mpu6050\my_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+hal_mpu6050\my_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+hal_mpu6050\my_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/semphr.h
+hal_mpu6050\my_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
+hal_mpu6050\my_task.o: ../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS/cmsis_os.h
+hal_mpu6050\my_task.o: ../Core/Inc/i2c.h
+hal_mpu6050\my_task.o: ../Core/Inc/usart.h
+hal_mpu6050\my_task.o: ../Core/Inc/gpio.h
+hal_mpu6050\my_task.o: ../Core/Inc/fall_detect.h
+hal_mpu6050\my_task.o: ../Core/Inc/OLED.h
+hal_mpu6050\my_task.o: ../Core/Inc/mpu6050.h
